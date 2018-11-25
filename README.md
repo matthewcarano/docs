@@ -2,10 +2,9 @@
 
 ### A fully verifiable decentralized anonymous voting system
 
-_This document is a work in progress and subject to change_
+*This document is a work in progress and subject to change*
 
-
-Cryptography and distributed p2p systems have given rise to a new, revolutionary digital technology which might change the way society organizes: blockchain. Among many other applications, it can allow for secure, transparent, distributed and resilient decision making.
+Blockchain is a revolutionary digital technology that could impact every sector of the world economy. On top of that, Blockchain has the potential to change the way a society is organized, including how groups of people choose their leaders, or choose whether or not to execute common initiatives.
 
 In this document, we propose the system architecture of a decentralized anonymous voting platform.
 
